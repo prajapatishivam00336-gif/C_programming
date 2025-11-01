@@ -1,10 +1,4 @@
 
- /* Name- Shivam prajapati 
- UIN-251C005
- Roll no-5
- Div-B
- Branch-civil
- */
 #include <stdio.h>
 int factorial_iterative(int n) {
     int fact = 1;
